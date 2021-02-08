@@ -5,15 +5,9 @@
 
   <description>Use your Google account to authenticate with the app.</description>
 
-  <author>Eddy Verbruggen</author>
+  <author>STC</author>
 
   <license>MIT</license>
-
-  <keywords>Google, Google SignIn, GoogleSignIn, Google Login, Login, OAuth, Identity, Authentication</keywords>
-
-  <repo>https://github.com/EddyVerbruggen/cordova-plugin-googleplus.git</repo>
-
-  <issue>https://github.com/EddyVerbruggen/cordova-plugin-googleplus/issues</issue>
 
   <engines>
     <engine name="cordova" version=">=7.1.0" />
